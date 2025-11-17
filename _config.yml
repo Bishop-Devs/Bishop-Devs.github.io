@@ -3,4 +3,6 @@ description: "Dev Dawgs Games!"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 search_enabled: false
-
+just_the_docs:
+  custom_css:
+    - css/custom.css
