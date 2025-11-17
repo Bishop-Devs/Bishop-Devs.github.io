@@ -1,1 +1,1 @@
-Repo for Bishop Dev Dawgs [Gallery](bishop-devs.github.io)
+Repo for Bishop Dev Dawgs [Gallery](https://bishop-devs.github.io/)
