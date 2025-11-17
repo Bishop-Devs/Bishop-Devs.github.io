@@ -1,0 +1,14 @@
+:root{
+  --link-color: #ff0000;
+  --btn-primary-bg: #ff0000;
+  --btn-primary-border-color: #ff0000;
+
+  --link-hover-color: #cc0000;
+  --btn-primary-hover-bg: #cc0000;
+
+  --nav-active-bg: #ffe6e6;
+  --nav-active-color: #cc0000;
+
+  --heading-color: #cc0000
+  --code-border-color: #ff0000;
+}
